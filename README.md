@@ -2,7 +2,7 @@
 
 This repository, named **Test-Toolchains**, has been created as part of an exercise to familiarize myself with GitHub workflows. The following tasks will be performed in this repository:
 
-## Tasks to be Completed
+## Tasks
 
 1. **Repository Creation:**
    - A public GitHub repository named **Test-Toolchains** has been created.
